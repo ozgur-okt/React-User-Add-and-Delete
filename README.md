@@ -1,5 +1,7 @@
 # About the repository
 
+![npm](https://img.shields.io/badge/npm-8.1.2-green)
+
 I created this app by using React. This is a simple user add-delete system app.On the screen, you can see the users added and then you can delete them in the row of user.
 
 ### Installation
