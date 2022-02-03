@@ -9,8 +9,9 @@ I created this app by using React. This is a simple user add-delete system app.O
 I used [Node.js](https://nodejs.org/) v 16.13.1. For installation, install the dependencies and start the server.
 
 ```sh
-git clone https://github.com/ozgur-okt/React-User-Add-and-Delete
-cd React-User-Add-and-Delete
+git clone https://github.com/ozgur-okt/ReactJS-User-Add-and-Delete
+cd ReactJS-User-Add-and-Delete
+cd my-app
 npm install
 ```
 ### Start the server
